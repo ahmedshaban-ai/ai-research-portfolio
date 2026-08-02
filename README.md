@@ -198,7 +198,13 @@ My academic CV is available here:
 [Download CV](docs/Ahmed_Shaban_CV.pdf)
 
 ---
+## Additional Information
 
+- [Detailed Research Interests](research/research_interests.md)
+- [Featured Projects](projects/featured_projects.md)
+- [Research Availability](research/availability.md)
+- [Academic CV](docs/Ahmed_Shaban_CV.pdf)
+- 
 ## Contact
 
 **Ahmed Sha'ban**
