@@ -1,3 +1,4 @@
+![Ahmed Sha'ban Research Portfolio](images/research-banner.png)
 # Ahmed Sha'ban — Research Portfolio
 
 ## Artificial Intelligence | Computer Vision | Multimodal AI | Intelligent Systems
